@@ -2,6 +2,8 @@ lockfileVersion: 5.4
 
 specifiers:
   '@babel/core': ^7.18.2
+  '@babel/plugin-proposal-decorators': ^7.18.2
+  '@babel/preset-env': ^7.18.2
   '@ember/optional-features': ^2.0.0
   '@ember/test-helpers': ^2.7.0
   '@glimmer/component': ^1.1.2
@@ -42,6 +44,8 @@ specifiers:
 
 devDependencies:
   '@babel/core': 7.18.2
+  '@babel/plugin-proposal-decorators': 7.18.2_@babel+core@7.18.2
+  '@babel/preset-env': 7.18.2_@babel+core@7.18.2
   '@ember/optional-features': 2.0.0
   '@ember/test-helpers': 2.8.1_2sxeqdgobzzppyo7vkeatzxku4
   '@glimmer/component': 1.1.2_@babel+core@7.18.2
